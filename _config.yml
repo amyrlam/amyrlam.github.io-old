@@ -1,2 +1,4 @@
 name: Amy Lam
 markdown: kramdown
+
+theme: jekyll-theme-minimal
